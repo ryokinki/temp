@@ -1,0 +1,22 @@
+############# 准备安装mac系统了 #############
+保存 现有软件
+firefox chrome zend RAR Extractor Lite MPlayerX
+word qq wechart PD以及已经安装了的虚拟机 VirtualBox
+
+id_rsa id_rsa.pub
+host
+vagrant 文件
+vagrant
+vimrc 
+
+homebrew
+autoconf
+automake
+pcre
+perl
+composer
+cscope
+wget
+ctags
+curl
+python
